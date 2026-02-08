@@ -1,0 +1,11 @@
+# For advanced syntax highlighting (way better than regex)
+Pygments==2.17.2
+
+# For adding icons and handling images in the UI
+Pillow==10.2.0
+
+# For automatic system-wide dark mode detection
+darkdetect==0.8.0
+
+# For spell checking (requires the 'Enchant' C library on your system)
+pyenchant==3.2.2
